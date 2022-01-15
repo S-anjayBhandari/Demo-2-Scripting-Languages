@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student regisration FORM</title>
+</head>
+<body>
+
+<h2 style="text-align: center;">Student Registration Form</h2>
+
+<form action="student_reg.html">
+  <label for="usrname">User name:</label><br>
+  <input type="text" id="usrame" ><br><br>
+  <label for="pwd">Password:</label><br>
+  <input type="password" id="pwd"><br><br>
+  <label for="dob">DOB</label><br>
+  <input type="date" id="dob"><br><br>
+  <label for="email">Email</label><br>
+  <input type="email" id="email"><br><br>
+
+  <input type="submit" value="Submit">
+</form> 
+
+
+</body>
+</html>
